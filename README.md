@@ -30,7 +30,9 @@
 <h3 align="center">🚀 Top Open Source Contribution</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhandaridhyeyh&repo=ECHO&theme=radical" alt="ECHO Repo" />
+  <a href="https://github.com/bhandaridhyeyh/ECHO" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhandaridhyeyh&repo=ECHO&theme=radical" alt="ECHO Repo" />
+  </a>
 </div>
 
 <br/>
