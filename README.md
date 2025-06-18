@@ -34,23 +34,43 @@
 
 <h2 align="center">🚀 Top Open Source Contribution</h2>
 
-<table align="center">
+<div align="center">
+  <a href="https://github.com/bhandaridhyeyh/ECHO" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhandaridhyeyh&repo=ECHO&theme=radical" alt="ECHO Repo" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center"><b>Role:</b> Backend Developer · Integrator · DevOps</p>
+
+<p align="center" width="80%">
+  <i>
+    Echo is a collaborative campus platform where students can post items for sale, request help, and chat in real-time — all in one unified app.
+  </i>
+</p>
+
+<br/>
+
+<div align="center">
+
+<table>
   <tr>
-    <td align="center" width="100%">
-      <a href="https://github.com/bhandaridhyeyh/ECHO" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhandaridhyeyh&repo=ECHO&theme=radical" alt="ECHO Repo" />
-      </a>
-      <p><strong>Role:</strong> Core Backend Developer</p>
-      <p>💡 <em>ECHO</em> is a real-time marketplace & student collaboration platform.</p>
-      <ul align="left">
-        <li>🔧 Built real-time chat system using <strong>Socket.io</strong></li>
-        <li>🛒 Designed deal request and response logic</li>
-        <li>☁️ Integrated Cloudinary for image uploads</li>
-        <li>🔔 Developed notification system for user interactions</li>
+    <td>
+      <ul>
+        <li>🧠 Developed complete <b>backend logic</b> using <code>Node.js</code> + <code>Express</code></li>
+        <li>⚙️ Connected and configured <b>MongoDB</b> using <code>Mongoose</code></li>
+        <li>🔗 Integrated backend APIs with <b>React Native frontend</b></li>
+        <li>💬 Enabled real-time chat with <b>Socket.IO</b> (including per-post messaging)</li>
+        <li>📤 Implemented image upload system using <b>Cloudinary</b> + <code>multer</code></li>
+        <li>☁️ Deployed complete stack to the <b>cloud</b> for public access</li>
       </ul>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 <h2 align="center">📊 GitHub Streak</h2>
 <p align="center">
