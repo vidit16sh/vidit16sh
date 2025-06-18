@@ -11,8 +11,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vidit16sh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+ 
+<h3 align="left"> 🌐 Socials: </h3>
+<p align="left">
+<a href="https://linkedin.com/in/vidit-shah-16devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidit-shah-16devops" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_viditsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_viditsh" height="30" width="40" /></a>
+</p> 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidit-shah-16devops)  
----
 [![](https://visitcount.itsvg.in/api?id=vidit16sh&icon=0&color=0)](https://visitcount.itsvg.in)
