@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidit Shah</h1>
 <h3 align="center">const me = { code, cloud, caffeine };</h3>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h3 align="center">💻 Tech Stack</h3> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
-<h2 align="center">🚀 Top Open Source Contribution</h2>
+<h3 align="center">🚀 Top Open Source Contribution</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhandaridhyeyh&repo=ECHO&theme=radical" alt="ECHO Repo" />
@@ -62,17 +62,17 @@
 </table>
 </div>
 
-<h2 align="center">📊 GitHub Streak</h2>
+<h3 align="center">📊 GitHub Streak</h3>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=vidit16sh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vidit16sh&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vidit16sh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h3 align="center">🌐 Socials </h3>
 <p align="center">
   <a href="https://linkedin.com/in/vidit-shah-16devops" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
