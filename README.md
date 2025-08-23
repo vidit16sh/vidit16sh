@@ -64,16 +64,6 @@
 </table>
 </div>
 
-<h3 align="center">📊 GitHub Streak</h3>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vidit16sh&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vidit16sh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 <h3 align="center">🌐 Socials </h3>
 <p align="center">
   <a href="https://linkedin.com/in/vidit-shah-16devops" target="blank">
