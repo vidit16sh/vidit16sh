@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidit Shah</h1>
 <h3 align="center">Breaking builds & building better — that’s the loop</h3>
 
-<h3 align="center">💻 Tech Stack</h3> 
+<h3 align="center">My Dev Arsenal ⚔️</h3> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> 
